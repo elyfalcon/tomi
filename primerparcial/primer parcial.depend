@@ -1,0 +1,254 @@
+# depslib dependency file v1.0
+1557148389 source:d:\primer parcial\primer parcial\autores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"socios.h"
+	"prestamos.h"
+	"input.h"
+	"fechas.h"
+	"libros.h"
+
+1557155757 d:\primer parcial\primer parcial\socios.h
+	"libros.h"
+	"autores.h"
+	"fechas.h"
+
+1557155534 d:\primer parcial\primer parcial\libros.h
+
+1557155723 d:\primer parcial\primer parcial\autores.h
+
+1557146468 d:\primer parcial\primer parcial\fechas.h
+
+1557155646 d:\primer parcial\primer parcial\prestamos.h
+	"libros.h"
+	"autores.h"
+	"fechas.h"
+
+1557078834 d:\primer parcial\primer parcial\input.h
+
+1557148375 source:d:\primer parcial\primer parcial\fechas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"socios.h"
+	"prestamos.h"
+	"input.h"
+	"libros.h"
+	"autores.h"
+
+1557146129 source:d:\primer parcial\primer parcial\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1557148375 source:d:\primer parcial\primer parcial\libros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"socios.h"
+	"prestamos.h"
+	"input.h"
+	"fechas.h"
+	"autores.h"
+
+1557155682 source:d:\primer parcial\primer parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"socios.h"
+	"prestamos.h"
+	"input.h"
+	"fechas.h"
+	"libros.h"
+	"autores.h"
+
+1557148417 source:d:\primer parcial\primer parcial\prestamos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"socios.h"
+	"input.h"
+	"fechas.h"
+	"libros.h"
+	"autores.h"
+
+1557155990 source:c:\users\gbcat\onedrive\escritorio\primer parcial\autores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"socios.h"
+	"prestamos.h"
+	"input.h"
+	"fechas.h"
+	"libros.h"
+
+1557235229 c:\users\gbcat\onedrive\escritorio\primer parcial\socios.h
+	"libros.h"
+	"autores.h"
+	"fechas.h"
+
+1557155990 c:\users\gbcat\onedrive\escritorio\primer parcial\libros.h
+
+1557155990 c:\users\gbcat\onedrive\escritorio\primer parcial\autores.h
+
+1557235042 c:\users\gbcat\onedrive\escritorio\primer parcial\fechas.h
+
+1557237429 c:\users\gbcat\onedrive\escritorio\primer parcial\prestamos.h
+	"libros.h"
+	"autores.h"
+	"fechas.h"
+
+1557155990 c:\users\gbcat\onedrive\escritorio\primer parcial\input.h
+
+1557155990 source:c:\users\gbcat\onedrive\escritorio\primer parcial\fechas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"socios.h"
+	"prestamos.h"
+	"input.h"
+	"libros.h"
+	"autores.h"
+
+1557155990 source:c:\users\gbcat\onedrive\escritorio\primer parcial\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1557155990 source:c:\users\gbcat\onedrive\escritorio\primer parcial\libros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"socios.h"
+	"prestamos.h"
+	"input.h"
+	"fechas.h"
+	"autores.h"
+
+1557233955 source:c:\users\gbcat\onedrive\escritorio\primer parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"socios.h"
+	"prestamos.h"
+	"input.h"
+	"fechas.h"
+	"libros.h"
+	"autores.h"
+
+1557155990 source:c:\users\gbcat\onedrive\escritorio\primer parcial\prestamos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"socios.h"
+	"input.h"
+	"fechas.h"
+	"libros.h"
+	"autores.h"
+
+1557268604 source:c:\test\elifalcon\tomi\primer%20parcial\autores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"socios.h"
+	"prestamos.h"
+	"input.h"
+	"fechas.h"
+	"libros.h"
+
+1557258371 c:\test\elifalcon\tomi\primer%20parcial\socios.h
+	"libros.h"
+	"autores.h"
+	"fechas.h"
+
+1557268604 c:\test\elifalcon\tomi\primer%20parcial\libros.h
+
+1557268604 c:\test\elifalcon\tomi\primer%20parcial\autores.h
+
+1557268604 c:\test\elifalcon\tomi\primer%20parcial\fechas.h
+
+1557268604 c:\test\elifalcon\tomi\primer%20parcial\prestamos.h
+	"libros.h"
+	"autores.h"
+	"fechas.h"
+
+1557268604 c:\test\elifalcon\tomi\primer%20parcial\input.h
+
+1557268604 source:c:\test\elifalcon\tomi\primer%20parcial\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1557268604 source:c:\test\elifalcon\tomi\primer%20parcial\libros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"socios.h"
+	"prestamos.h"
+	"input.h"
+	"fechas.h"
+	"autores.h"
+
+1557259522 source:c:\test\elifalcon\tomi\primer%20parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"socios.h"
+	"prestamos.h"
+	"input.h"
+	"fechas.h"
+	"libros.h"
+	"autores.h"
+
+1557268604 source:c:\test\elifalcon\tomi\primer%20parcial\prestamos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"socios.h"
+	"input.h"
+	"fechas.h"
+	"libros.h"
+	"autores.h"
+
+1557259425 source:c:\test\elifalcon\tomi\primer%20parcial\socios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"prestamos.h"
+	"input.h"
+	"fechas.h"
+	"libros.h"
+	"autores.h"
+	"socios.h"
+
