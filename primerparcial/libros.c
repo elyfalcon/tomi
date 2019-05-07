@@ -216,14 +216,14 @@ void ordenarPorCriterios(eLibro vec[], int tam){
     eLibro aux;
     for(i=0; i<tam; i++){
         for(j=i+1; j<tam; j++){
-            if(vec[i].sueldo<vec[j].sueldo){
+            if(vec[i].<vec[j].sueldo){
                 aux=vec[i];
                 vec[i]=vec[j];
                 vec[j]=aux;
             }
             else{
-                    if(vec[i].sueldo==vec[j].sueldo){
-                        if(strcmp(vec[i].nombre,vec[j].nombre)){
+                    if(vec[i].codigoDeLibro==vec[j].codigoDeLibro){
+                        if(strcmp(vec[i].titulo,vec[j].titulo)){
                             aux=vec[i];
                             vec[i]=vec[j];
                             vec[j]=aux;
