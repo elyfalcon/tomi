@@ -9,8 +9,8 @@ typedef struct
 }eLibro;
 
 
-
-
-
+void AltaLibro(eLibro libro[],int cantidad);
+int obtenerEspacioLibre(eLibro lista_libro[],int cantidad);
+void MostrarUno(eLibro libro);
 
 #endif // LIBROS_H_INCLUDE

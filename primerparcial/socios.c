@@ -103,7 +103,7 @@ void altaSocio(eSocio lista[], int tam)
     if(i != -1)
     {
         lista[i].codigoDeSocio = mayorCodigoDeSocios(lista, T) + 1;
-        getChar("ingrese apellido");
+        getChar("ingrese apellido: ");
         gets(lista[i].apellido);
         printf("Ingrese nombre: ");
         fflush(stdin);

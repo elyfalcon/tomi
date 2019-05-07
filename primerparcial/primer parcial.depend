@@ -167,7 +167,7 @@
 	"libros.h"
 	"autores.h"
 
-1557268604 source:c:\test\elifalcon\tomi\primer%20parcial\autores.c
+1557265962 source:c:\test\elifalcon\tomi\primer%20parcial\autores.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
@@ -184,7 +184,7 @@
 	"autores.h"
 	"fechas.h"
 
-1557268604 c:\test\elifalcon\tomi\primer%20parcial\libros.h
+1557265962 c:\test\elifalcon\tomi\primer%20parcial\libros.h
 
 1557268604 c:\test\elifalcon\tomi\primer%20parcial\autores.h
 
@@ -202,7 +202,7 @@
 	<stdlib.h>
 	<string.h>
 
-1557268604 source:c:\test\elifalcon\tomi\primer%20parcial\libros.c
+1557267372 source:c:\test\elifalcon\tomi\primer%20parcial\libros.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
@@ -239,7 +239,7 @@
 	"libros.h"
 	"autores.h"
 
-1557259425 source:c:\test\elifalcon\tomi\primer%20parcial\socios.c
+1557265468 source:c:\test\elifalcon\tomi\primer%20parcial\socios.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
